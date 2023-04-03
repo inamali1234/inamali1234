@@ -4,7 +4,7 @@
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifabeast&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifabeast" /> </p>
 
-<img align="right" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="">
+<img align="right" width="400px" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1" alt="">
 
 
 <p align="left"> <a href="https://twitter.com/muhammad huzaifa" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad huzaifa?logo=twitter&style=for-the-badge" alt="muhammad huzaifa" /></a> </p>
