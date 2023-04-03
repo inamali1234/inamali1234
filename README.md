@@ -1,4 +1,4 @@
-<img align="center" width="1500px" height="200px" src="https://i.ibb.co/b2q4b1n/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" alt="">
+<img align="center" width="1500px" height="200px" src="https://i.ibb.co/NmPwdFG/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" alt="">
 
 <h1 align="center">Hi 👋, I'm Syed Inam Ali</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
